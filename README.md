@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/akr3ch/akr3ch/blob/master/hacker-banner-01.png" alt="Hello world">
+<img src="https://github.com/akr3ch/akr3ch/blob/master/noob.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
