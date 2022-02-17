@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/akr3ch/akr3ch/blob/master/noob.png" alt="Hello world">
+<img src="https://github.com/akr3ch/akr3ch/blob/main/noob.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
@@ -12,9 +12,9 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on bash
-- 🌱 I’m currently learning python for hacking
-- 📫 How to reach me:[Twitter](https://twitter.com/a_k_r_e_c_H)
+- 🔭 I’m currently working on bash & python3
+- 🌱 I am 17y:)
+- 📫 How to reach me:[twitter](https://twitter.com/a_k_r_e_c_H)
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact:  -->
 
