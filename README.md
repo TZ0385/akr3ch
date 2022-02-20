@@ -1,4 +1,4 @@
-### Hi there, I am akrecH
+### Hi, I'm akrecH
 
 <img src="https://github.com/akr3ch/akr3ch/blob/main/code.jpeg" alt="Hello world">
 
