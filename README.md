@@ -1,11 +1,7 @@
-### Hi there 👋 \n I am akrecH
+### Hi there, I am akrecH
 
 <img src="https://github.com/akr3ch/akr3ch/blob/main/noob.png" alt="Hello world">
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/akr3ch/count.svg" />
-</p>
 
 
 <!-- **akr3ch/akr3ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +14,11 @@ Here are some ideas to get you started: -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact:  -->
 
-![Munazir GitHub stats](https://github-readme-stats.vercel.app/api?username=akr3ch&show_icons=true&theme=radical)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/akr3ch/count.svg" />
+</p>
+
+![akr3ch GitHub stats](https://github-readme-stats.vercel.app/api?username=akr3ch&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akr3ch&layout=compact)](https://github.com/akr3ch/github-readme-stats)
