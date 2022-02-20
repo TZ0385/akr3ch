@@ -1,6 +1,6 @@
 ### Hi there, I am akrecH
 
-<img src="https://github.com/akr3ch/akr3ch/blob/main/noob.png" alt="Hello world">
+<img src="https://github.com/akr3ch/akr3ch/blob/main/code.jpeg" alt="Hello world">
 
 
 
