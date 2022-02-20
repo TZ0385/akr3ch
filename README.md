@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 \n I am akrecH
 
 <img src="https://github.com/akr3ch/akr3ch/blob/main/noob.png" alt="Hello world">
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on bash & python3
 - 🌱 I am 17y:)
-- 📫 How to reach me:[twitter](https://twitter.com/a_k_r_e_c_H)
+- 📫 [twitter](https://twitter.com/a_k_r_e_c_H)
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact:  -->
 
