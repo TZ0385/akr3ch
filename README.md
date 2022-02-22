@@ -1,11 +1,15 @@
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 ### Hi, I'm akrecH
 
-<img src="https://github.com/akr3ch/akr3ch/blob/main/code.jpeg" alt="Hello world">
+<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 😄 Cybersecurity Enthusiast
+
 - 🌱 I am 17y:)
-## Found me on <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+
+## Found me on 
+
 <a href="https://www.instagram.com/a_k_r_e_c_h/">
   <img align="left" alt="akrech's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -15,6 +19,11 @@
 <a href="https://twitter.com/a_k_r_e_c_H">
   <img align="left" alt="akrecH | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
 
 ![akr3ch GitHub stats](https://github-readme-stats.vercel.app/api?username=akr3ch&show_icons=true&theme=radical)
 
