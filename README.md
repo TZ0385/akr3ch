@@ -1,25 +1,25 @@
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+## <img height="40" src="/icons/kyubey.gif"/>
 ### Hi, I'm akrecH
 
-<img  align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img  align="right" alt="GIF" src="/icons/code.gif?raw=true" width="500" height="320" />
 
-- 😄 `CyberSecurity researcher...`
+- 😄 `Bug Hunter x Hacker`
 
 - 🌱 `17 year's old :)`
 
 
 ## Found me on 
 <a href="https://tryhackme/p/akrecH">
-  <img align="left" alt="TryHackMe" width="22px" src="tryhackme.png" />
+  <img align="left" alt="TryHackMe" width="22px" src="/icons/tryhackme.png" />
 </a>
 <a href="https://www.instagram.com/a_k_r_e_c_h/">
-  <img align="left" alt="akrech's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="akrech's Instagram" width="22px" src="/icons/instagram.png" />
 </a>
 <a href="https://facebook.com/itz.a.k.r.e.c.h">
-  <img align="left" alt="akrech's facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img align="left" alt="akrech's facebook" width="22px" src="/icons/facebook.svg" />
 </a>
 <a href="https://twitter.com/a_k_r_e_c_H">
-  <img align="left" alt="akrecH | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="akrecH | Twitter" width="22px" src="/icons/twitter.svg" />
 </a>
 
 
@@ -33,14 +33,14 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="python.png" style="padding-right:10px;" />
-<img align="left" alt="Bash" width="26px" src="shell.png" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="26px" src="/icons/vs-code.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="/icons/python.png" style="padding-right:10px;" />
+<img align="left" alt="Bash" width="26px" src="/icons/shell.png" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="/icons/html5.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="/icons/css3.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="/icons/js.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="/icons/git.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="/icons/github.png" style="padding-right:10px;" />
 
 
 <p align="center"> 
