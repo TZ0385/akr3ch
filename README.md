@@ -1,7 +1,7 @@
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 ### Hi, I'm akrecH
 
-<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img  align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 😄 `CyberSecurity researcher...`
 
@@ -9,12 +9,14 @@
 
 
 ## Found me on 
-
+<a href="https://tryhackme/p/akrecH">
+  <img align="left" alt="TryHackMe" width="22px" src="tryhackme.png" />
+</a>
 <a href="https://www.instagram.com/a_k_r_e_c_h/">
   <img align="left" alt="akrech's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="akrech's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://facebook.com/itz.a.k.r.e.c.h">
+  <img align="left" alt="akrech's facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 <a href="https://twitter.com/a_k_r_e_c_H">
   <img align="left" alt="akrecH | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
