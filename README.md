@@ -1,5 +1,5 @@
 ## <img height="40" src="/icons/kyubey.gif"/>
-### Hi, I'm akrecH
+## Hi, I'm akrecH
 
 <img  align="right" alt="GIF" src="/icons/code.gif?raw=true" width="500" height="320" />
 
@@ -8,7 +8,9 @@
 - 🌱 `17 year's old :)`
 
 
+
 ## Found me on 
+
 <a href="https://tryhackme/p/akrecH">
   <img align="left" alt="TryHackMe" width="22px" src="/icons/tryhackme.png" />
 </a>
