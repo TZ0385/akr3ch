@@ -3,9 +3,9 @@
 
 <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 😄 Cybersecurity researcher
+- 😄 `CyberSecurity researcher...`
 
-- 🌱 17 year's old :)
+- 🌱 `17 year's old :)`
 
 
 ## Found me on 
