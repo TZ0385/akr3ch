@@ -11,7 +11,7 @@
 
 ## Found me on 
 
-<a href="https://tryhackme/p/akrecH">
+<a href="https://tryhackme.com/p/akrecH">
   <img align="left" alt="TryHackMe" width="22px" src="/icons/tryhackme.png" />
 </a>
 <a href="https://www.instagram.com/a_k_r_e_c_h/">
