@@ -11,6 +11,9 @@
 
 ## Found me on 
 
+<a href="https://app.hackthebox.com/users/677144">
+  <img align="left" alt="HackTheBox" width="22px" src="/icons/hackthebox.png" />
+</a>
 <a href="https://tryhackme.com/p/akrecH">
   <img align="left" alt="TryHackMe" width="22px" src="/icons/tryhackme.png" />
 </a>
