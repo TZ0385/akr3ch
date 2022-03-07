@@ -10,10 +10,6 @@
 
 
 ## Found me on 
-
-<a href="https://app.hackthebox.com/users/677144">
-  <img align="left" alt="HackTheBox" width="22px" src="/icons/hackthebox.png" />
-</a>
 <a href="https://tryhackme.com/p/akrecH">
   <img align="left" alt="TryHackMe" width="22px" src="/icons/tryhackme.png" />
 </a>
@@ -28,13 +24,24 @@
 </a>
 
 
------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
 
+--------------------------
+<p align="left"> 
+  <h2>Visitor count<br>
+  <img src="https://profile-counter.glitch.me/akr3ch/count.svg" />
+</p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akr3ch&layout=compact)](https://github.com/akr3ch/github-readme-stats)
+
+
+<a href="https://akr3ch.github.io">
+  <img align="right" alt="Wicker" width="100px" src="/icons/icon-hacker.png" />
+</a>
 
 
 ![akr3ch GitHub stats](https://github-readme-stats.vercel.app/api?username=akr3ch&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akr3ch&layout=compact)](https://github.com/akr3ch/github-readme-stats)
 
 ### Languages and Tools:
 
@@ -48,7 +55,4 @@
 <img align="left" alt="GitHub" width="26px" src="/icons/github.png" style="padding-right:10px;" />
 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/akr3ch/count.svg" />
-</p>
+
