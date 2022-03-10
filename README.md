@@ -35,11 +35,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akr3ch&layout=compact)](https://github.com/akr3ch/github-readme-stats)
 
-
 <a href="https://akr3ch.github.io">
   <img align="right" alt="Wicker" width="100px" src="/icons/icon-hacker.png" />
 </a>
-
 
 ![akr3ch GitHub stats](https://github-readme-stats.vercel.app/api?username=akr3ch&show_icons=true&theme=radical)
 
@@ -53,6 +51,4 @@
 <img align="left" alt="JavaScript" width="26px" src="/icons/js.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="/icons/git.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="/icons/github.png" style="padding-right:10px;" />
-
-
 
