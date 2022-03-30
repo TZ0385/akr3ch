@@ -1,5 +1,5 @@
 ## <img height="40" src="/icons/kyubey.gif"/>
-## Hi, I'm akrecH
+## Hi, I'm <img src="http://www.hackthebox.eu/badge/image/677144" alt="Hack The Box">
 
 <img  align="right" alt="GIF" src="/icons/code.gif?raw=true" width="500" height="320" />
 
@@ -22,9 +22,6 @@
 <a href="https://twitter.com/a_k_r_e_c_H">
   <img align="left" alt="akrecH | Twitter" width="22px" src="/icons/twitter.svg" />
 </a>
-
-
----------------------------------------------------------------------------------------
 
 --------------------------
 <p align="left"> 
@@ -51,4 +48,9 @@
 <img align="left" alt="JavaScript" width="26px" src="/icons/js.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="/icons/git.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="/icons/github.png" style="padding-right:10px;" />
+
+
+---------------
+
+
 
