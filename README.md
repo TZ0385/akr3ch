@@ -33,7 +33,7 @@ root@bughunt3r:~# cat about.txt
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akr3ch&layout=compact)](https://github.com/akr3ch/github-readme-stats)
 
-<a href="https://akr3ch.github.io">
+<a href="http://akrech.xyz">
   <img align="right" alt="Wicker" width="100px" src="/icons/icon-hacker.png" />
 </a>
 
