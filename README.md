@@ -30,8 +30,6 @@ root@bughunt3r:~# cat about.txt
   <img src="https://profile-counter.glitch.me/akr3ch/count.svg" />
 </p>
 
-![akr3ch GitHub stats](https://github-readme-stats.vercel.app/api?username=akr3ch&show_icons=true&theme=radical)
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="/icons/vs-code.svg" style="padding-right:10px;" />
