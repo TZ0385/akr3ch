@@ -1,5 +1,5 @@
 ## <img height="40" src="/icons/kyubey.gif"/>
-# Hi, I'm <img src="http://www.hackthebox.eu/badge/image/677144" alt="Hack The Box">
+<img src="http://www.hackthebox.eu/badge/image/677144" alt="Hack The Box">
 
 <img align="right" alt="GIF" src="/icons/code.gif?raw=true" width="500" height="320" />
 
