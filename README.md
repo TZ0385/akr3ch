@@ -10,7 +10,7 @@ root@bughunt3r:~# cat about.txt
 
 
 
-## Found me on 
+## ../../
 <a href="https://www.instagram.com/akr3ch">
   <img align="left" alt="akrech's Instagram" width="22px" src="/icons/instagram.png" />
 </a>
