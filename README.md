@@ -23,12 +23,11 @@ root@bughunt3r:~# cat about.txt
 
 --------------------------
 <p align="left"> 
-  <h2>Visitor count<br>
+  <code>visitor count</code><br>
   <img src="https://profile-counter.glitch.me/akr3ch/count.svg" />
 </p>
 
-### Languages and Tools:
-
+### Loves:
 <img align="left" alt="Visual Studio Code" width="26px" src="/icons/vs-code.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="/icons/python.png" style="padding-right:10px;" />
 <img align="left" alt="Bash" width="26px" src="/icons/shell.png" style="padding-right:10px;" />
