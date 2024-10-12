@@ -1,41 +1,46 @@
-<img height="40" src="/icons/hacktheworld.gif"/>
-<img src="http://www.hackthebox.eu/badge/image/677144" alt="Hack The Box">
+<div align="center">
+  <img height="40" src="/icons/hacktheworld.gif"/>
+  <br><b>Bug Bounty Hunter</b><br>
+  
+  <a href="https://www.instagram.com/akr3ch">
+    <img alt="Instagram" width="30px" src="/icons/instagram.png" />
+  </a>
+  <a href="https://twitter.com/akr3ch">
+    <img alt="Twitter" width="30px" src="/icons/twitter.svg" />
+  </a>
+</div>
 
-<img align="right" alt="GIF" src="/icons/code.gif?raw=true" width="500" height="320" />
+<!-- Hack The Box Badge -->
+<div align="center">
+  <img src="http://www.hackthebox.eu/badge/image/677144" alt="Hack The Box" />
+</div>
 
-```
-root@bughunt3r:~# cat about.txt
---- .--. .. -. .. --- -. ... / .- .-. . / -- -.-- / --- .-- -.
-```
+<div align="center">
+  <pre>
+    <code>akr3ch@hacktheworld:~# cat about.txt</code>
+    <br>--- .--. .. -. .. --- -. ... / .- .-. . / -- -.-- / --- .-- -.
+  </pre>
+</div>
 
-
-
-## ../../
-<a href="https://www.instagram.com/akr3ch">
-  <img align="left" alt="akrech's Instagram" width="22px" src="/icons/instagram.png" />
-</a>
-<a href="https://twitter.com/akr3ch">
-  <img align="left" alt="akrecH | Twitter" width="22px" src="/icons/twitter.svg" />
-</a>
-
---------------------------
-<p align="left"> 
-  <code>visitor count</code><br>
-  <img src="https://profile-counter.glitch.me/akr3ch/count.svg" />
+<h2 align="center">...</h2>
+<p align="center">
+  <img src="/icons/vs-code.svg" alt="VS Code" width="40px" style="padding-right:10px;" />
+  <img src="/icons/python.png" alt="Python" width="40px" style="padding-right:10px;" />
+  <img src="/icons/shell.png" alt="Bash" width="40px" style="padding-right:10px;" />
+  <img src="/icons/html5.svg" alt="HTML5" width="40px" style="padding-right:10px;" />
+  <img src="/icons/css3.svg" alt="CSS3" width="40px" style="padding-right:10px;" />
+  <img src="/icons/js.svg" alt="JavaScript" width="40px" style="padding-right:10px;" />
+  <img src="/icons/git.svg" alt="Git" width="40px" style="padding-right:10px;" />
+  <img src="/icons/github.png" alt="GitHub" width="40px" style="padding-right:10px;" />
 </p>
 
-### hacktheworld:
-<img align="left" alt="Visual Studio Code" width="26px" src="/icons/vs-code.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="/icons/python.png" style="padding-right:10px;" />
-<img align="left" alt="Bash" width="26px" src="/icons/shell.png" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="/icons/html5.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="/icons/css3.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="/icons/js.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="/icons/git.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="/icons/github.png" style="padding-right:10px;" />
+<!-- Visitor Counter -->
+<div align="center">
+  <h3>Visitor Count</h3>
+  <img src="https://profile-counter.glitch.me/akr3ch/count.svg" alt="Visitor Count" />
+</div>
 
-
----------------
-
-
-
+<!-- Footer with GIF -->
+<div align="center">
+  <img alt="Coding GIF" src="/icons/code.gif?raw=true" width="500px" height="320px" />
+</div>
