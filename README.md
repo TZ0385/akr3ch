@@ -14,9 +14,6 @@ root@bughunt3r:~# cat about.txt
 <a href="https://www.instagram.com/akr3ch">
   <img align="left" alt="akrech's Instagram" width="22px" src="/icons/instagram.png" />
 </a>
-<a href="https://facebook.com/akr3ch">
-  <img align="left" alt="akrech's facebook" width="22px" src="/icons/facebook.svg" />
-</a>
 <a href="https://twitter.com/akr3ch">
   <img align="left" alt="akrecH | Twitter" width="22px" src="/icons/twitter.svg" />
 </a>
