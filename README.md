@@ -4,7 +4,7 @@
 <img src="/icons/hacktheworld.gif" height="50"/>
 
 <h1>akr3ch</h1>
-<h3>Bug Bounty Hunter • Security Researcher • Hacker Mindset</h3>
+<h3>Bug Bounty Hunter • Security Researcher</h3>
 
 <p>
   <a href="https://www.instagram.com/akr3ch">
