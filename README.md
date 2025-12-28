@@ -73,30 +73,10 @@ akr3ch@hacktheworld:~$ █
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=akr3ch&show_icons=true&theme=radical&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akr3ch&layout=compact&theme=radical&hide_border=true" />
-
-</div>
-
----
-
 ## 🧪 Activity Graph
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akr3ch&theme=redical&hide_border=true"/>
-
-</div>
-
----
-
-## 👁️ Visitor Counter
-<div align="center">
-
-<img src="https://profile-counter.glitch.me/akr3ch/count.svg"/>
 
 </div>
 
@@ -108,6 +88,6 @@ akr3ch@hacktheworld:~$ █
 <img src="/icons/code.gif?raw=true" width="500"/>
 
 <br><br>
-<b>“Hack the system. Learn everything. Trust nothing.”</b>
+<b>“Let the mistakes to be your greatest teacher.”</b>
 
 </div>
